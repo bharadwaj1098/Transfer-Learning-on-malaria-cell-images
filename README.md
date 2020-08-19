@@ -9,3 +9,5 @@ The Dataset is available on the official website of National Library of Medicine
 
 https://keras.io/api/applications/
  is the link to download the  pre-trained weights
+ 
+ Change the path of the data and pre-trained weights in the code while implementing 
